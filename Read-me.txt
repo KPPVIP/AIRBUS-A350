@@ -1,0 +1,44 @@
+Airbus A350-900XWB
+------------------
+
+
+Mod features:
+-Detailed exterior and cockpit
+-Working gauges
+-Working lights
+-Full low-poly interior
+-Multi livery
+-Openable doors
+-Bullet impact and glass shattering
+-LODs
+-Custom col mesh
+
+
+
+Credits:
+Model:
+Flightgear
+FSX (Minor parts)
+
+Converted to GTA V and edited by SkylineGTRFreak
+Textures by Tails330
+
+-----------------------------------------------------------------------------
+Instructions:
+
+ADD-ON VERSION:
+
+1. Place the "a359" folder into [Gamefolder]\update\X64\dlcpacks\
+2. With OpenIV, open [Game folder]\update\update.rpf\common\data\dlclist.xml and add this with Notepad++
+		<Item>dlcpacks:\a359\</Item>
+
+3. Now you are done, you will need a trainer with "spawn by name" function (Enhanced Native Trainer for example) to spawn the vehicle type in:
+
+"a350"
+
+
+If the game crashes on startup, use a custom gameconfig.xml (you can find them at gta5-mods.com)
+
+
+I would advise using a Mods folder (more info at OpenIV) 
+and make a backup, I take no responsibility if any shit happens.
